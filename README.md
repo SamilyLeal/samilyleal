@@ -2,7 +2,7 @@
 <div align="center">
   <section>
     <a target="_blank" href="https://wa.me/5599945446071"><img src="https://www.svgrepo.com/show/341430/whatsapp-social-media-network.svg" style="height:32px;"></a>
-    <a target="_blank" href="mailto:samilylealofc@gmail.com"><img src="https://www.svgrepo.com/show/341384/gmail-email-mail-message.svg" style="height:32px;"></a>
+    <a target="_blank" href="mailto:samilylealofc@gmail?subject=&body="><img src="https://www.svgrepo.com/show/341384/gmail-email-mail-message.svg" style="height:32px;"></a>
     <a target="_blank" href="https://www.linkedin.com/in/samilyleal/"><img src="https://www.svgrepo.com/show/341393/linkedin-communication-social-media.svg" style="height:32px;"></a>
   </section>
   <br>
