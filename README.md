@@ -40,4 +40,8 @@
 <img src="https://skillicons.dev/icons?i=css&theme=light">
 </p>
     </samp>
+  <p align="left">
+    <a href="https://github.com/samilyleal/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samilyleal&theme=github_dark&layout=compact&hide_border=true&stroke=0000&langs_count=8"/>
+      </a></p>
 </details>
