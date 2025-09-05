@@ -7,7 +7,6 @@
   <br>
   <samp>
     Hello there! I'm Samy.
-    <br>I'm an Analysis and System Development Student at <a target="_blank" href="https://fatecitu.cps.sp.gov.br/">Fatec Itu</a>.<br><br>
 </samp>
   <img src="https://web.archive.org/web/20091027022418/http://hk.geocities.com/bbqweb/octopuscg/kinggirl.gif" width="140"/>
   <br>
