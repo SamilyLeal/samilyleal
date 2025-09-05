@@ -6,7 +6,7 @@
   </section>
   <br>
   <samp>
-    Hello there! I'm Samy.
+    <p>Hello there! I'm Samy.</p>
 </samp>
   <img src="https://web.archive.org/web/20091027022418/http://hk.geocities.com/bbqweb/octopuscg/kinggirl.gif" width="140"/>
   <br>
@@ -18,14 +18,14 @@
     <samp>More details</samp>
   </summary>
   <samp align="left">
-    <p>About me</p>
+    <h4><strong>About me</strong></h4>
   <ul>
-    <li>My current areas of interest are <strong>Web development</strong></li>
+    <li>My current area of interest is <strong>Back-End Development</strong></li>
     <li>Ask me anything about <strong>Java</strong></li>
-    <li>I am currently focused on learning Docker and Microservices Architecture</li>
-    <li>Fun fact: I am a big fan of aquatic animals, also a sudoku lover!</li>
+    <li>I am currently focused on learning AWS and cloud computing</li>
+    <li>Fun fact: I am a big fan of aquatic animals and sudoku!</li>
   </ul>
-    <h4>My skills</h4>
+    <h4><strong>My skills</strong></h4>
     <p>
   <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light">
   <img src="https://skillicons.dev/icons?i=java&theme=light">
@@ -36,6 +36,13 @@
 <img src="https://skillicons.dev/icons?i=figma&theme=light">
 <img src="https://skillicons.dev/icons?i=html&theme=light">
 <img src="https://skillicons.dev/icons?i=css&theme=light">
+      <img src="https://skillicons.dev/icons?i=angular&theme=light">
+      <img src="https://skillicons.dev/icons?i=typescript&theme=light">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light">
+      <img src="https://skillicons.dev/icons?i=docker&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongo&theme=light">
+      <img src="https://skillicons.dev/icons?i=python&theme=light">
+      <img src="https://skillicons.dev/icons?i=golang&theme=light">
 </p>
     </samp>
   <p align="left">
